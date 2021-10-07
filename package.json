@@ -1,0 +1,29 @@
+{
+  "name": "goit-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masha-Shytykova/goit-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masha-Shytykova/goit-node/issues"
+  },
+  "homepage": "https://github.com/Masha-Shytykova/goit-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.2.1"
+  }
+}
